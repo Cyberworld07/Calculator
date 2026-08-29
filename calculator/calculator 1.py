@@ -16,7 +16,7 @@ while True:
     print("2.Subtract")
     print("3.Multiply")
     print("4.Divide")
-    print("5.exist")
+    print("5.exit")
     choice = int(input("Enter choice(1/2/3/4/5): "))
     if choice == 5:
         print("Calculator closed")
